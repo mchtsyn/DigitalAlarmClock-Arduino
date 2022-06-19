@@ -1,6 +1,6 @@
 # DigitalAlarmClock-Arduino
 Simulation and Circuit Design in Proteus
-
+![](demo/cct.png)
 Press BUTTON1 to switch between 24H and 12H modes.
 
 Long press BUTTON1 to enter clock set up mode.

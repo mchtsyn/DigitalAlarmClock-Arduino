@@ -15,3 +15,4 @@ Press BUTTON3 to switch between Fahrenheit and Celcius mode.
 
 Press BUTTON4 to snooze alarm for 5 minutes
 
+
